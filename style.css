@@ -118,12 +118,12 @@ a.info-box{
 .info-box img.right{
       float      : right;
       margin-top : 25px;
-      height     40px; 
+      height     : 40px; 
 }
 
 /*============== INFO BOX FULL =============*/
 #info-box-full{
-      background-color : rgba(255, 255, 255, .8) ;
+      background-color : rgba(255, 255, 255, .8);
       width   : 90%;
       display : block;
       margin  : auto;
